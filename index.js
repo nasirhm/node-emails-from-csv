@@ -1,5 +1,5 @@
 'use strict';
- 
+npm test
 const path = require('path');
 const csv = require('csv');
 const parse = require('csv-parse');
